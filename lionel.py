@@ -33,4 +33,4 @@ with st.sidebar:
     st.title("Contact")
     
     st.markdown("Mail: oudianelionel@gmail.com")
-    st.markdown("Réactif et disponible, je réponds généralement à vos messages en moins de quelques heures.")
+    st.markdown("Réactif et disponible, je réponds généralement à vos mail en moins de quelques heures.")
