@@ -12,7 +12,7 @@ st.write("Addresse: Gandigal,Mbour")
 
 st.subheader("PARCOURS")
 st.write("Licence en science agricoles, alimentaires et nutritionnelles")
-st.write("Baccalaurioat Scientifique")
+st.write("Baccalauriat Scientifique")
         
 st.header("Compétence")
 st.write("Gestion d'une exploitation agricole")
